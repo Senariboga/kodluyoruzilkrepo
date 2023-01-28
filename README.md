@@ -4,16 +4,18 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Back-End Eğitiminde oluşturduğum
 
 ## **Installation**
 
-'git clone https://github.com/Senariboga/kodluyoruzilkrepo.git'
+```
+git clone https://github.com/Senariboga/kodluyoruzilkrepo.git
+```
 
 ## **Usage**
 
 Linux için:
 
-'''
+``` 
 cd kodluyoruzilkrepo
 code.
-'''
+```
 ## **Contributing**
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
